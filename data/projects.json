@@ -1,0 +1,36 @@
+[
+  {
+    "id": "surat-perintah",
+    "name": "Surat Perintah",
+    "template": "surat_perintah.docx",
+    "dataSource": "source_data_1.xlsx",
+    "sheetName": "DPP 2026",
+    "mapping": {
+      "nama_wp": "Nama",
+      "npwp": "NPWP 16",
+      "alamat_wp": "Alamat",
+      "tahun": "Tahun Pajak",
+      "masa_pajak": "Masa Pajak",
+      "nama_ketua": "Nama Ketua Tim",
+      "pangkat_ketua": "Pangkat Golongan Ketua Tim",
+      "jabatan_ketua": "NIP Ketua Tim",
+      "nama_anggota": "Nama Anggota Tim",
+      "pangkat_anggota": "Pangkat Golongan Anggota Tim",
+      "jabatan_anggota": "NIP Anggota Tim"
+    },
+    "visibleColumns": [
+      "No.",
+      "NPWP 16",
+      "Nama",
+      "Alamat",
+      "Tahun Pajak",
+      "Masa Pajak",
+      "Nama Ketua Tim",
+      "Pangkat Golongan Ketua Tim",
+      "NIP Ketua Tim",
+      "Nama Anggota Tim",
+      "Pangkat Golongan Anggota Tim",
+      "NIP Anggota Tim"
+    ]
+  }
+]
